@@ -1,10 +1,1 @@
-
-
-hello 
-
-
-bye 
-
-
-
-<p> hi </p>
+hi
